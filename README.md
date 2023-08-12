@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 " alt="Instagram"></img></a>   <a href="https://twitter.com/MohitRa06856507"><img src="https://github.com/mohitrajparit/mohitrajparit/assets/97958965/eb4dff2c-bbcf-4da3-825b-836cdd66b4b3
 " alt="Twitter"></img></a>
   -->
+  <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
