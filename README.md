@@ -11,16 +11,16 @@ Here are some ideas to get you started:
 - 🔭 I’m Web Developer and Competitive Programmer
 - 🌱 I’m currently learning React and boosting my Web Development skills.
 - 💬 Ask me about Web Development and Competitive Programming.
-- Reach me at -
- <a href="mailto:2004mohitraj@gmail.com" target="_blank">
-    <img align="left" alt="Mohit Raj Parit | Gmail" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
-</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mohit-raj-parit-04a3411b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-raj-parit-04a3411b4/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_._mohit_raj_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._mohit_raj_._/" height="30" width="40" /></a>
+ <a href="mailto:2004mohitraj@gmail.com" target="_blank">
+    <img align="left" alt="Mohit Raj Parit | Gmail" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
+</a>
 </p>
 
   <!--
