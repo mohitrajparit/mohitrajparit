@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <a href="mailto:2004mohitraj@gmail.com" target="blank">
     <img align="center" alt="Mohit Raj Parit | Gmail" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
 </a>
-<a href="https://www.codechef.com/users/akanksha_0603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akanksha_0603" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mohit_raj_066" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohit_raj_066" height="30" width="40" /></a>
 
 <a href="https://codeforces.com/profile/mohitraj0606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohitraj0606" height="30" width="40" /></a>
 <a href="https://leetcode.com/_mohit_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_mohit_raj" height="30" width="40" /></a>
