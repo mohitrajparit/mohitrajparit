@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <a href="https://codeforces.com/profile/mohitraj0606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohitraj0606" height="30" width="40" /></a>
 <a href="https://leetcode.com/_mohit_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_mohit_raj" height="30" width="40" /></a>
-<a href=https://auth.geeksforgeeks.org/user/_mohit_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_mohit_raj_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/_mohit_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_mohit_raj_" height="30" width="40" /></a>
 </p>
 
   <!--
