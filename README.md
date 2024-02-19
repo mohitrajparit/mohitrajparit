@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/_mohit_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_mohit_raj_" height="30" width="40" /></a>
 </p>
 <h2><a href="https://my-portfolio-i7p9e.vercel.app/">Portfolio</a></h2>
+<br><br>
   <!--
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mohit-raj-parit-04a3411b4/"><img src="https://github.com/mohitrajparit/mohitrajparit/assets/97958965/eb4dff2c-bbcf-4da3-825b-836cdd66b4b3" alt="linkedin"></img></a>
   <a href="https://www.linkedin.com/in/mohit-raj-parit-04a3411b4/"><img src="https://github.com/mohitrajparit/mohitrajparit/assets/97958965/eb4dff2c-bbcf-4da3-825b-836cdd66b4b3
