@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/_mohit_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_mohit_raj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/_mohit_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_mohit_raj_" height="30" width="40" /></a>
 </p>
-
+<p><a href="https://my-portfolio-i7p9e.vercel.app/">Portfolio</a></p>
   <!--
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mohit-raj-parit-04a3411b4/"><img src="https://github.com/mohitrajparit/mohitrajparit/assets/97958965/eb4dff2c-bbcf-4da3-825b-836cdd66b4b3" alt="linkedin"></img></a>
   <a href="https://www.linkedin.com/in/mohit-raj-parit-04a3411b4/"><img src="https://github.com/mohitrajparit/mohitrajparit/assets/97958965/eb4dff2c-bbcf-4da3-825b-836cdd66b4b3
