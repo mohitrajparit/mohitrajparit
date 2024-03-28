@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **2004mohitraj@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitrajparit&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrajparit" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
