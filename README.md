@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 🔭 I’m Web Developer and Competitive Programmer
+- 🔭 I’m Full Stack Developer and Competitive Programmer
 - 🌱 I’m currently learning React and boosting my Web Development skills.
 - 💬 Ask me about Competitive Programming.
 - 💬 Ask me about **MERN**
