@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 🔭 I’m Full Stack Developer and Competitive Programmer
-- 🌱 I’m currently learning React and boosting my Web Development skills.
+- 🌱 I’m currently learning React and boosting my Development skills.
+- 🌱 Diving into deep learning and machine learning.
 - 💬 Ask me about Competitive Programming.
 - 💬 Ask me about **MERN**
 
