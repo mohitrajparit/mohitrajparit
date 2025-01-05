@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 🌱 Diving into deep learning and machine learning.
 - 💬 Ask me about Competitive Programming.
 - 💬 Ask me about **MERN**
-
+ <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohitrajparit&show_icons=true&theme=gruvbox&count_private=true" alt="mohitrajparit GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitrajparit&theme=xcode&hide_border=true" />
+  </div>
 - 📫 How to reach me **2004mohitraj@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitrajparit&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrajparit" /> </p>
